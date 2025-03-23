@@ -15,8 +15,8 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é
   GET /{tenant}/Pessoa/${id}
 ```
 
-| Parâmetro   | Tipo       |Obrigatório| Descrição                           |
-| :---------- | :--------- | :---------------------------------- |
+| Parâmetro   | Tipo       | Obrigatório | Descrição                           |
+| :---------- | :--------- | :---------  |:---------------------------------- |
 | `Id` | `Guid` | **Sim**| A chave da sua API |
 
 #### Retorna Pessoa
@@ -25,8 +25,8 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é
   GET /{tenant}/Departamento/${id}
 ```
 
-| Parâmetro   | Tipo       |Obrigatório|Descrição                                   |
-| :---------- | :--------- | :------------------------------------------ |
+| Parâmetro   | Tipo       | Obrigatório |Descrição                                   |
+| :---------- | :--------- | :---------  |:------------------------------------------ |
 | `id`      | `Guid` | **Sim**| O ID do item que você quer |
 
 #### Retorna Departamento
