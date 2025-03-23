@@ -5,7 +5,7 @@ VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{32AE7705-A94C-4278-93BF-3C15688C74C0}"
 	ProjectSection(SolutionItems) = preProject
-		gitignore = gitignore
+		.gitignore = .gitignore
 		README.md = README.md
 	EndProjectSection
 EndProject
