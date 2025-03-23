@@ -1,5 +1,5 @@
 
-![IDN Dev](Assets/logo_idn_dev.png)
+![IDN Dev](src/Assets/logo_idn_dev.png)
 
 
 # Título do Projeto
@@ -15,7 +15,7 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é
   GET /{tenant}/Pessoa/${id}
 ```
 
-| Parâmetro   | Tipo       | Obrigatório | Descrição                           |
+| Parâmetro   | Tipo       | Obrigatório | Descrição                          |
 | :---------- | :--------- | :---------  |:---------------------------------- |
 | `Id` | `Guid` | **Sim**| A chave da sua API |
 
