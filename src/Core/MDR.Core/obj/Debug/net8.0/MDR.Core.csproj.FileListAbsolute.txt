@@ -1,0 +1,11 @@
+D:\Repositorio\Lab-Studies .Net\Lab - Modelando Dominio Rico\L03.MDR.Project\src\Core\MDR.Core\bin\Debug\net8.0\MDR.Core.deps.json
+D:\Repositorio\Lab-Studies .Net\Lab - Modelando Dominio Rico\L03.MDR.Project\src\Core\MDR.Core\bin\Debug\net8.0\MDR.Core.dll
+D:\Repositorio\Lab-Studies .Net\Lab - Modelando Dominio Rico\L03.MDR.Project\src\Core\MDR.Core\bin\Debug\net8.0\MDR.Core.pdb
+D:\Repositorio\Lab-Studies .Net\Lab - Modelando Dominio Rico\L03.MDR.Project\src\Core\MDR.Core\obj\Debug\net8.0\MDR.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorio\Lab-Studies .Net\Lab - Modelando Dominio Rico\L03.MDR.Project\src\Core\MDR.Core\obj\Debug\net8.0\MDR.Core.AssemblyInfoInputs.cache
+D:\Repositorio\Lab-Studies .Net\Lab - Modelando Dominio Rico\L03.MDR.Project\src\Core\MDR.Core\obj\Debug\net8.0\MDR.Core.AssemblyInfo.cs
+D:\Repositorio\Lab-Studies .Net\Lab - Modelando Dominio Rico\L03.MDR.Project\src\Core\MDR.Core\obj\Debug\net8.0\MDR.Core.csproj.CoreCompileInputs.cache
+D:\Repositorio\Lab-Studies .Net\Lab - Modelando Dominio Rico\L03.MDR.Project\src\Core\MDR.Core\obj\Debug\net8.0\MDR.Core.dll
+D:\Repositorio\Lab-Studies .Net\Lab - Modelando Dominio Rico\L03.MDR.Project\src\Core\MDR.Core\obj\Debug\net8.0\refint\MDR.Core.dll
+D:\Repositorio\Lab-Studies .Net\Lab - Modelando Dominio Rico\L03.MDR.Project\src\Core\MDR.Core\obj\Debug\net8.0\MDR.Core.pdb
+D:\Repositorio\Lab-Studies .Net\Lab - Modelando Dominio Rico\L03.MDR.Project\src\Core\MDR.Core\obj\Debug\net8.0\ref\MDR.Core.dll
