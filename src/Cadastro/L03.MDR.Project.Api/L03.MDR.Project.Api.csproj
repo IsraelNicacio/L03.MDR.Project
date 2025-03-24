@@ -10,8 +10,20 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="14.0.0" />
+    <PackageReference Include="microsoft.entityframeworkcore.design" Version="9.0.3">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="microsoft.entityframeworkcore.sqlserver" Version="9.0.3" />
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.21.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MDR.Cadastro.Application\MDR.Cadastro.Application.csproj" />
+    <ProjectReference Include="..\MDR.Cadastro.Domain\MDR.Cadastro.Domain.csproj" />
+    <ProjectReference Include="..\MDR.Cadastro.Infrastructure.Data\MDR.Cadastro.Infrastructure.Data.csproj" />
   </ItemGroup>
 
 </Project>
