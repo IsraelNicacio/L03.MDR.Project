@@ -6,4 +6,14 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="14.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\MDR.Core\MDR.Core.csproj" />
+    <ProjectReference Include="..\MDR.Cadastro.Domain\MDR.Cadastro.Domain.csproj" />
+    <ProjectReference Include="..\MDR.Cadastro.Infrastructure.Data\MDR.Cadastro.Infrastructure.Data.csproj" />
+  </ItemGroup>
+
 </Project>
