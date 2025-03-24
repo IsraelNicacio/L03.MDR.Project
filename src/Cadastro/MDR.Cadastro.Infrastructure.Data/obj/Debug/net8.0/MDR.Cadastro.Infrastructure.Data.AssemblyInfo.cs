@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MDR.Cadastro.Infrastructure.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36db85d23e8007e98e6846152db0568922144186")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba6c1b00a138169bbe0e0263d49cc8d13d324001")]
 [assembly: System.Reflection.AssemblyProductAttribute("MDR.Cadastro.Infrastructure.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MDR.Cadastro.Infrastructure.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
